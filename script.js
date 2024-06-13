@@ -1,7 +1,7 @@
 const texts = document.querySelectorAll('strong')
 function highlight() {
   //Write your code here
-  texts.forEach(el=>el.style.color="green")
+ 
 }
 
 
